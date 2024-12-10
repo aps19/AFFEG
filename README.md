@@ -1,2 +1,2 @@
-# vgaf_data
+# AFFEG DATASET
 Full website coming soon
